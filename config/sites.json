@@ -1,0 +1,72 @@
+{
+  "sites": [
+    {
+      "key": "EN",
+      "type": "editorial",
+      "host": "en.lovebox.love",
+      "gscSiteUrl": "https://en.lovebox.love/",
+      "shopifyEnv": "EN",
+      "blogHandle": "news",
+      "blogPathPrefix": "/blogs/news/",
+      "redirectFallback": "/blogs/news"
+    },
+    {
+      "key": "FR",
+      "type": "editorial",
+      "host": "fr.lovebox.love",
+      "gscSiteUrl": "https://fr.lovebox.love/",
+      "shopifyEnv": "FR",
+      "blogHandle": "news",
+      "blogPathPrefix": "/blogs/news/",
+      "redirectFallback": "/blogs/news"
+    },
+    {
+      "key": "EU",
+      "type": "editorial",
+      "host": "eu.lovebox.love",
+      "gscSiteUrl": "https://eu.lovebox.love/",
+      "shopifyEnv": "EU",
+      "blogHandle": "news",
+      "blogPathPrefix": "/blogs/news/",
+      "redirectFallback": "/blogs/news"
+    },
+    {
+      "key": "BUY",
+      "type": "buy",
+      "host": "buy.lovebox.love",
+      "gscSiteUrl": "https://buy.lovebox.love/"
+    },
+    {
+      "key": "BOUTIQUE",
+      "type": "buy",
+      "host": "boutique.lovebox.love",
+      "gscSiteUrl": "https://boutique.lovebox.love/"
+    },
+    {
+      "key": "STORE",
+      "type": "buy",
+      "host": "store.lovebox.love",
+      "gscSiteUrl": "https://store.lovebox.love/"
+    }
+  ],
+  "seasonalKeywords": [
+    "christmas", "noel", "xmas", "advent", "secret-santa",
+    "valentine", "valentines", "saint-valentin",
+    "halloween",
+    "mothers-day", "fete-des-meres",
+    "father", "fathers-day", "fete-des-peres",
+    "black-friday", "cyber-monday",
+    "holiday", "holidays", "vacances",
+    "new-year", "nouvel-an"
+  ],
+  "clusters": {
+    "long-distance": ["long-distance", "distance", "ldr", "apart", "relation-a-distance", "couples-apart"],
+    "love-messages": ["love-message", "messages-d-amour", "love-letter", "lettre", "love-note", "reasons-why-i-love", "tu-me-manques", "miss-you", "deep-love"],
+    "astrology": ["astrology", "zodiac", "horoscope", "virgo", "libra", "scorpio", "gemini", "taurus", "aries", "cancer", "leo", "pisces", "aquarius", "capricorn", "sagittarius", "astrologie"],
+    "gifts": ["gift", "cadeau", "present", "valentines", "saint-valentin", "christmas", "noel", "anniversary", "anniversaire", "mothers-day", "fete-des-meres"],
+    "family": ["family", "famille", "grandma", "grandpa", "grandparent", "mamie", "papi", "mom", "dad", "sibling", "son-", "daughter", "empty-nest", "college"],
+    "apology": ["apology", "apologize", "sorry", "excuses", "pardon", "se-faire-pardonner"],
+    "goodnight": ["goodnight", "good-night", "bonne-nuit", "sweet-dreams"],
+    "relationships": ["relationship", "couple", "partner", "boyfriend", "girlfriend", "marriage", "mariage", "spice-up", "date-night"]
+  }
+}

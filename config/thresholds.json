@@ -1,0 +1,35 @@
+{
+  "windowDays": 90,
+  "tiers": {
+    "MORT": 1,
+    "TRES_FAIBLE": 5,
+    "FAIBLE": 20,
+    "MOYEN": 100,
+    "BON": 500
+  },
+  "deletion": {
+    "maxViews90d": 10,
+    "maxUsers90d": 10,
+    "maxGscClicks90d": 0,
+    "maxGscImpressions90d": 50,
+    "minArticleAgeDays": 180,
+    "maxLlmSessions90d": 0,
+    "maxEngagementSeconds": 30,
+    "treatMissingGscAsZero": true,
+    "minGscRowsForInference": 50,
+    "maxInferredZeroDeletionsPerRun": 0,
+    "blockSeasonalDeletions": true,
+    "maxSeasonalViews365d": 30,
+    "blockGrowingArticles": true,
+    "minTrendDeltaViews": 6
+  },
+  "refresh": {
+    "minViews90d": 100,
+    "maxEngagementSeconds": 10
+  },
+  "diamond": {
+    "minEngagementSeconds": 60,
+    "maxViews90d": 150
+  },
+  "urlExcludePatterns": ["sandbox", "cdn-cgi", "translate.goog", "\\?", "%", "//blogs"]
+}

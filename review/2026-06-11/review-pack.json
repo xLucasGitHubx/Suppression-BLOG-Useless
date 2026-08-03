@@ -1,0 +1,1220 @@
+{
+  "generatedAt": "2026-06-11T14:44:46.785Z",
+  "windowDays": 90,
+  "humanActions": {
+    "refresh": [
+      {
+        "slug": "50-best-good-night-messages-and-texts-to-send-in-2024",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/50-best-good-night-messages-and-texts-to-send-in-2024",
+        "views": 7168,
+        "engagementSeconds": 10,
+        "cluster": "goodnight",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "nonverbal-intimacy",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/nonverbal-intimacy",
+        "views": 2362,
+        "engagementSeconds": 3.8,
+        "cluster": "other",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "how-to-make-long-distance-relationships-work-in-high-school",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-make-long-distance-relationships-work-in-high-school",
+        "views": 285,
+        "engagementSeconds": 9.9,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "how-to-write-love-letter",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-write-love-letter",
+        "views": 209,
+        "engagementSeconds": 8.8,
+        "cluster": "love-messages",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "valentines-gift-for-new-relationship",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/valentines-gift-for-new-relationship",
+        "views": 191,
+        "engagementSeconds": 1.7,
+        "cluster": "gifts",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "valentines-gift-for-long-distance-couples",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/valentines-gift-for-long-distance-couples",
+        "views": 186,
+        "engagementSeconds": 2.2,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "how-to-maintain-long-distance-friendships-when-your-friends-are-far-away",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-maintain-long-distance-friendships-when-your-friends-are-far-away",
+        "views": 173,
+        "engagementSeconds": 1.1,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "the-emotional-effect-of-a-long-distance-relationship",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/the-emotional-effect-of-a-long-distance-relationship",
+        "views": 160,
+        "engagementSeconds": 3.2,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "ways-to-stay-connected-in-a-long-distance-relationship",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/ways-to-stay-connected-in-a-long-distance-relationship",
+        "views": 140,
+        "engagementSeconds": 3.7,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      },
+      {
+        "slug": "how-to-stay-connected-as-a-long-distance-family",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-stay-connected-as-a-long-distance-family",
+        "views": 122,
+        "engagementSeconds": 3.2,
+        "cluster": "long-distance",
+        "why": "Fort trafic mais engagement quasi nul — refaire intro/H1/CTA/FAQ"
+      }
+    ],
+    "diamonds": [
+      {
+        "slug": "rester-connectes-a-ses-enfants-quand-on-est-divorces-rituels",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/rester-connectes-a-ses-enfants-quand-on-est-divorces-rituels",
+        "views": 9,
+        "engagementSeconds": 70.3,
+        "cluster": "other",
+        "why": "Fort engagement, faible visibilité — ajouter du maillage interne depuis les performers"
+      },
+      {
+        "slug": "15-ways-to-cope-with-your-daughter-moving-away",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/15-ways-to-cope-with-your-daughter-moving-away",
+        "views": 67,
+        "engagementSeconds": 69.9,
+        "cluster": "family",
+        "why": "Fort engagement, faible visibilité — ajouter du maillage interne depuis les performers"
+      },
+      {
+        "slug": "signs-and-symptoms-of-empty-nest-syndrome",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/signs-and-symptoms-of-empty-nest-syndrome",
+        "views": 27,
+        "engagementSeconds": 60,
+        "cluster": "family",
+        "why": "Fort engagement, faible visibilité — ajouter du maillage interne depuis les performers"
+      }
+    ],
+    "blockedDeletions": [
+      {
+        "slug": "10-adventurous-conversation-starters-for-sagittarius",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-adventurous-conversation-starters-for-sagittarius",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-heartfelt-conversation-starters-for-your-long-distance-boyfriend",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-heartfelt-conversation-starters-for-your-long-distance-boyfriend",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-ways-to-kill-routine-revive-your-romance",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-ways-to-kill-routine-revive-your-romance",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "30-best-messa",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/30-best-messa",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "5-best-long-distance-relationship-gifts",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/5-best-long-distance-relationship-gifts",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "6-ways-to-celebrate-mother-s-day-from-a-distance",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/6-ways-to-celebrate-mother-s-day-from-a-distance",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "deep-love-messages-for-her-in-a-long-distance-relationship",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/deep-love-messages-for-her-in-a-long-distance-relationship",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "free-printables",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/free-printables",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-organize-your-wedding-with-the-lovebox",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-organize-your-wedding-with-the-lovebox",
+        "views": 1,
+        "blockedBy": [
+          "GSC clics 1 > 0",
+          "GSC impressions 120 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "libra-dating-dos-and-donts-navigating-relationships-with-a-libra",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/libra-dating-dos-and-donts-navigating-relationships-with-a-libra",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "long-distance-love-notes",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/long-distance-love-notes",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "long-distance-relationship-map-generator",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/long-distance-relationship-map-generator",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-letter-for-her",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-letter-for-her",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-letter-ideas",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-letter-ideas",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-messages",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-messages",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-messages-for-her-or-him",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-messages-for-her-or-him",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "open-when-letters",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/open-when-letters",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "romantic-apology-messages",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/romantic-apology-messages",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "gift-ideas-for-mothers-day-that-feel-thoughtful-and-useful",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/gift-ideas-for-mothers-day-that-feel-thoughtful-and-useful",
+        "views": 1,
+        "blockedBy": [
+          "article publié il y a 65j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-stay-connected-to-kids-when-divorced",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/how-to-stay-connected-to-kids-when-divorced",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article publié il y a 5j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "original-mothers-day-gift-ideas",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/original-mothers-day-gift-ideas",
+        "views": 1,
+        "blockedBy": [
+          "article publié il y a 62j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "valentines-gift-ideas-for-couples-who-have-everything",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/valentines-gift-ideas-for-couples-who-have-everything",
+        "views": 1,
+        "blockedBy": [
+          "article publié il y a 103j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "2",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/2",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "dans-la-chaleur-du-mois-daout",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/dans-la-chaleur-du-mois-daout",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "la-newsletter-de-mars",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/la-newsletter-de-mars",
+        "views": 1,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "corporate-gifts-emotional-connection-employees",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/corporate-gifts-emotional-connection-employees",
+        "views": 2,
+        "blockedBy": [
+          "article publié il y a 100j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "reduce-loneliness-for-grandparents-simple-tech-gifts",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/reduce-loneliness-for-grandparents-simple-tech-gifts",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article publié il y a 12j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "tools-to-fight-social-isolation-in-retirement-homes",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/tools-to-fight-social-isolation-in-retirement-homes",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article publié il y a 19j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-fun-and-engaging-conversation-starters-for-kids",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-fun-and-engaging-conversation-starters-for-kids",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-heartwarming-conversation-starters-for-grandparents",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-heartwarming-conversation-starters-for-grandparents",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-romantic-valentines-day-date-ideas-for-couples",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-romantic-valentines-day-date-ideas-for-couples",
+        "views": 2,
+        "blockedBy": [
+          "GSC impressions 272 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "100-reasons-why-i-love-you",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/100-reasons-why-i-love-you",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "100-reasons-why-i-love-you-list-for-everyone-in-your-life",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/100-reasons-why-i-love-you-list-for-everyone-in-your-life",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "52-reasons-why-i-love-you",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/52-reasons-why-i-love-you",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "best-advent-calendars-for-the-2024-season-a-comprehensive-guide",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/best-advent-calendars-for-the-2024-season-a-comprehensive-guide",
+        "views": 2,
+        "blockedBy": [
+          "GSC impressions 77 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-lovebox-helped-vanessa-and-mehrad-feel-closer-in-their-long-distance-journey",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-lovebox-helped-vanessa-and-mehrad-feel-closer-in-their-long-distance-journey",
+        "views": 2,
+        "blockedBy": [
+          "GSC clics 3 > 0",
+          "GSC impressions 89 > 50",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-social-media-helps-distance-couples",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-social-media-helps-distance-couples",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-letter-examples-for-her",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-letter-examples-for-her",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-messages-for-her",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-messages-for-her",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "love-notes-examples",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/love-notes-examples",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "lovebox-app",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/lovebox-app",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "romantic-text-messages-for-her",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/romantic-text-messages-for-her",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "50-heartwarming",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/50-heartwarming",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "cadeau-saint-valentin-jeunes-couples",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/cadeau-saint-valentin-jeunes-couples",
+        "views": 2,
+        "blockedBy": [
+          "engagement 123.5s > seuil 30s",
+          "GSC clics 1 > 0",
+          "article publié il y a 167j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "en-mai-fais-ce-quil-te-plait-mais-noublies-pas-ta-maman",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/en-mai-fais-ce-quil-te-plait-mais-noublies-pas-ta-maman",
+        "views": 2,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "best-halloween-gifts-ideas",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/best-halloween-gifts-ideas",
+        "views": 3,
+        "blockedBy": [
+          "GSC impressions 321 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "deep-love-messages-for-her-in-a-lon",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/deep-love-messages-for-her-in-a-lon",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "deep-love-messages-her-in-a-long-distance-relationship",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/deep-love-messages-her-in-a-long-distance-relationship",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "grandparents-gift-to-stay-in-touch-with-family",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/grandparents-gift-to-stay-in-touch-with-family",
+        "views": 3,
+        "blockedBy": [
+          "GSC impressions 53 > 50",
+          "article publié il y a 161j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "long-distance-relationship-ideas",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/long-distance-relationship-ideas",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "romantic-love-messages",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/romantic-love-messages",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "1 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "the-best-cheap-christmas-gifts-under-30-2024-holiday-guide",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/the-best-cheap-christmas-gifts-under-30-2024-holiday-guide",
+        "views": 3,
+        "blockedBy": [
+          "GSC clics 1 > 0"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "heartwarming-things-to-say-to-your-long-distance-partner",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/heartwarming-things-to-say-to-your-long-distance-partner",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-organize-your-wedding-with-the-lovebox",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/how-to-organize-your-wedding-with-the-lovebox",
+        "views": 3,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-stay-connected-to-young-adult-kids-in-college",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/how-to-stay-connected-to-young-adult-kids-in-college",
+        "views": 3,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "secret-santa-gift-idea-for-coworkers-who-love-tech",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/secret-santa-gift-idea-for-coworkers-who-love-tech",
+        "views": 3,
+        "blockedBy": [
+          "article publié il y a 176j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "quelques-idees-pour-souhaiter-un-bel-anniversaire-avec-la-lovebox",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/quelques-idees-pour-souhaiter-un-bel-anniversaire-avec-la-lovebox",
+        "views": 3,
+        "blockedBy": [
+          "engagement 47.3s > seuil 30s",
+          "GSC clics 1 > 0",
+          "GSC impressions 147 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-exciting-ways-to-spice-up-your-relationship-over-text",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-exciting-ways-to-spice-up-your-relationship-over-text",
+        "views": 4,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "5-cool-christmas-tech-gifts-for-grandparents",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/5-cool-christmas-tech-gifts-for-grandparents",
+        "views": 4,
+        "blockedBy": [
+          "GSC impressions 1672 > 50",
+          "article publié il y a 130j < minimum 180j"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "black-friday-deals-cultivate-positivity-with-lovebox",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/black-friday-deals-cultivate-positivity-with-lovebox",
+        "views": 4,
+        "blockedBy": [
+          "GSC impressions 189 > 50",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "christmas-gift-ideas-for-grandparents-the-ultimate-2024-guide",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/christmas-gift-ideas-for-grandparents-the-ultimate-2024-guide",
+        "views": 4,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "deep-love-m",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/deep-love-m",
+        "views": 4,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "6-ways-to-make-this-a-meaningful-father-s-day",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/6-ways-to-make-this-a-meaningful-father-s-day",
+        "views": 4,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "anniversary-gifts-daily-connection",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/anniversary-gifts-daily-connection",
+        "views": 4,
+        "blockedBy": [
+          "GSC clics 1 > 0",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "gifts-for-military-spouses-to-stay-connected",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/gifts-for-military-spouses-to-stay-connected",
+        "views": 4,
+        "blockedBy": [
+          "GSC clics 1 > 0",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "lovebox-vs-traditional-photo-frame",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/lovebox-vs-traditional-photo-frame",
+        "views": 4,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "perfect-valentines-gift-idea-hard-to-buy-for",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/perfect-valentines-gift-idea-hard-to-buy-for",
+        "views": 4,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "cadeau-connecte-pour-grands-parents-guide",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/cadeau-connecte-pour-grands-parents-guide",
+        "views": 4,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "what-to-give-your-mom-for-mothers-day",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/what-to-give-your-mom-for-mothers-day",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "10-thoughtful-conversation-starters-for-virgos",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/10-thoughtful-conversation-starters-for-virgos",
+        "views": 5,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "cadeau-couple-distance-meaningful-gifts",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/cadeau-couple-distance-meaningful-gifts",
+        "views": 5,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "2 sessions IA vers cette page — visibilité LLM à préserver",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "five-conversations-couples-should-have-before-marriage",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/five-conversations-couples-should-have-before-marriage",
+        "views": 5,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-celebrate-thanksgiving-remotely",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/how-to-celebrate-thanksgiving-remotely",
+        "views": 5,
+        "blockedBy": [
+          "users 6 > seuil 5",
+          "GSC impressions 215 > 50",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "remote-working-at-lovebox-how-me-make-sure-it-works-for-everyone",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/remote-working-at-lovebox-how-me-make-sure-it-works-for-everyone",
+        "views": 5,
+        "blockedBy": [
+          "engagement 73.8s > seuil 30s",
+          "GSC clics 2 > 0",
+          "GSC impressions 97 > 50"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "significant-other-going-college-how-to-not-lose-touch",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/significant-other-going-college-how-to-not-lose-touch",
+        "views": 5,
+        "blockedBy": [
+          "GSC clics 2 > 0",
+          "GSC impressions 660 > 50",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "valentines-gift-for-long-distance-couples-guide",
+        "site": "EN",
+        "url": "https://en.lovebox.love/blogs/news/valentines-gift-for-long-distance-couples-guide",
+        "views": 5,
+        "blockedBy": [
+          "données GSC indisponibles pour cette page — suppression bloquée par prudence",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "creative-daily-rituals-care-from-distance",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/creative-daily-rituals-care-from-distance",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "grandparents-gift-to-stay-in-touch-with-family",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/grandparents-gift-to-stay-in-touch-with-family",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "how-to-stay-connected-to-kids-when-traveling-for-work",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/how-to-stay-connected-to-kids-when-traveling-for-work",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "valentines-gift-for-a-new-relationship",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/valentines-gift-for-a-new-relationship",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "valentines-gift-for-long-distance-couples",
+        "site": "EU",
+        "url": "https://eu.lovebox.love/blogs/news/valentines-gift-for-long-distance-couples",
+        "views": 5,
+        "blockedBy": [
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      },
+      {
+        "slug": "meilleurs-cadeaux-2026-grands-parents-seniors",
+        "site": "FR",
+        "url": "https://fr.lovebox.love/blogs/news/meilleurs-cadeaux-2026-grands-parents-seniors",
+        "views": 5,
+        "blockedBy": [
+          "GSC impressions 69 > 50",
+          "article non matché dans Shopify — suppression impossible",
+          "page déjà en 404/410 — rien à supprimer"
+        ],
+        "decision": "À trancher : noindex ? fusion ? attendre ? ajouter à protected-slugs.json ?"
+      }
+    ],
+    "masterActions": [
+      {
+        "priority": 1,
+        "action": "Ajouter 2-3 CTA produit inline sur /blogs/news/deep-love-messages-for-him-in-a-long-distance-relationship : bannière contextuelle à 25%, 50% et 75% du scroll, avec message 'Send this message on a real device – Shop Lovebox' liant vers /collections/long-distance-relationships-gifts ou la homepage EN.",
+        "where": "en.lovebox.love/blogs/news/deep-love-messages-for-him-in-a-long-distance-relationship",
+        "impact": "46 576 sessions × 1% CTR × 1,92 €/session = +893 € estimés par période, sans acquisition supplémentaire",
+        "effort": "faible",
+        "owner": "Content / CRO"
+      },
+      {
+        "priority": 2,
+        "action": "Diagnostiquer la chute de revenus EN (-41%) : segmenter dans GA4 les sessions homepage / vs période précédente par device, puis vérifier le funnel checkout — taux d'ajout panier, taux initiate checkout, taux purchase — pour isoler si la perte vient d'un drop de trafic transactionnel, d'un bug checkout ou d'une baisse de panier moyen.",
+        "where": "en.lovebox.love — rapport entonnoir GA4 sur /, /cart, /checkout, /collections/",
+        "impact": "Identifier la cause racine de -11 426 € perdus ; si bug checkout, récupération immédiate possible",
+        "effort": "moyen",
+        "owner": "Analytics / E-commerce Manager"
+      },
+      {
+        "priority": 3,
+        "action": "Scaler le Paid Search EN : augmenter le budget Google Ads sur les keywords 'long distance gifts', 'love box gift', 'lovebox' avec landing sur / et /collections/long-distance-relationships-gifts. Le canal tourne à 4,46 €/session sur 293 sessions — il est bridé budgétairement.",
+        "where": "Google Ads EN — campagnes brand + long-distance gifts, landing en.lovebox.love/ et /collections/long-distance-relationships-gifts",
+        "impact": "1 000 sessions supplémentaires × 4,46 € = +4 460 € de revenu projeté par période",
+        "effort": "moyen",
+        "owner": "Paid Search Manager"
+      },
+      {
+        "priority": 4,
+        "action": "Corriger le tracking web-pixels Shopify sur FR : exclure les patterns d'URL /web-pixels@*/sandbox/modern/* dans GA4 via filtre hostname ou règle de transformation, et vérifier la configuration du Web Pixel Shopify pour éviter la capture de ces iframes comme landing pages.",
+        "where": "fr.lovebox.love + boutique.lovebox.love — configuration GA4 / Shopify Web Pixels",
+        "impact": "Suppression de ~2 500 sessions fantômes FR + récupération de la mesure réelle du trafic IA FR (sous-estimé de 20-30%)",
+        "effort": "moyen",
+        "owner": "Développeur Shopify / Analytics"
+      },
+      {
+        "priority": 5,
+        "action": "Refondre /blogs/news/50-best-good-night-messages-and-texts-to-send-in-2024 : ajouter une table des matières cliquable, des sections catégorisées (tendresse, LDR, humour), un bloc FAQ Schema avec 3-5 questions sur le cluster goodnight, et un CTA Lovebox intégré dans le corps à mi-page. Objectif : passer de 10s à 45s d'engagement moyen.",
+        "where": "en.lovebox.love/blogs/news/50-best-good-night-messages-and-texts-to-send-in-2024",
+        "impact": "Amélioration du signal comportemental Google sur 7 168 vues/période + activation conversion sur un cluster à 0 € actuel ; FAQ Schema cible aussi les citations Perplexity",
+        "effort": "moyen",
+        "owner": "Éditeur content + intégrateur Shopify"
+      }
+    ],
+    "toTest": [
+      {
+        "idea": "A/B tester deux formats de CTA sur l'article deep-love-messages : (A) bannière statique inline vs (B) widget sticky sidebar avec prévisualisation du produit Lovebox — mesurer le CTR vers /collections/ et le taux de conversion downstream",
+        "successMetric": "CTR vers page produit > 1,5% sur le variant gagnant, revenu attribuable > 500 €/période"
+      },
+      {
+        "idea": "Tester un title tag sur BUY du type 'Lovebox® – The Original Love Device | Free Shipping' pour remplacer le title actuel — le CTR brand de 1,9% en position 4,6 est 3-4x sous la norme",
+        "successMetric": "CTR brand sur buy.lovebox.love passe de 1,9% à 4%+ en 4 semaines dans GSC"
+      },
+      {
+        "idea": "Publier une version enrichie de /blogs/news/best-gifts-for-long-distance-couples-2026 avec FAQ Schema (5 questions LLM-friendly) et mesurer l'évolution des sessions IA sur cet article cross-domaines",
+        "successMetric": "Sessions IA sur cet article passent de ~30 à 50+ sessions/période dans GA4"
+      },
+      {
+        "idea": "Tester un article ultra-spécialisé /blogs/news/touching-love-messages-to-make-him-cry-long-distance séparé de l'article générique — 7 799 impressions GSC à position 8,2 avec CTR 0,96%",
+        "successMetric": "Positionnement en top 5 sur la requête cible dans les 60 jours, CTR > 4%, gain de 200+ clics/période"
+      }
+    ]
+  },
+  "context": {
+    "clusterStats": {
+      "family": {
+        "total": 16,
+        "dead": 5,
+        "views": 818,
+        "deadRate": 31
+      },
+      "astrology": {
+        "total": 21,
+        "dead": 3,
+        "views": 24972,
+        "deadRate": 14
+      },
+      "gifts": {
+        "total": 69,
+        "dead": 25,
+        "views": 4295,
+        "deadRate": 36
+      },
+      "long-distance": {
+        "total": 86,
+        "dead": 15,
+        "views": 209066,
+        "deadRate": 17
+      },
+      "other": {
+        "total": 77,
+        "dead": 23,
+        "views": 43417,
+        "deadRate": 30
+      },
+      "love-messages": {
+        "total": 17,
+        "dead": 13,
+        "views": 11879,
+        "deadRate": 76
+      },
+      "apology": {
+        "total": 1,
+        "dead": 1,
+        "views": 1,
+        "deadRate": 100
+      },
+      "relationships": {
+        "total": 18,
+        "dead": 2,
+        "views": 6332,
+        "deadRate": 11
+      },
+      "goodnight": {
+        "total": 1,
+        "dead": 0,
+        "views": 7168,
+        "deadRate": 0
+      }
+    },
+    "tierDistribution": {
+      "MORT": 28,
+      "TRÈS FAIBLE": 59,
+      "FAIBLE": 52,
+      "MOYEN": 89,
+      "BON": 43,
+      "TOP": 35
+    },
+    "totals": {
+      "articlesAnalyzed": 306,
+      "flagged": 87,
+      "approved": 5,
+      "deadRate": 28
+    }
+  }
+}
